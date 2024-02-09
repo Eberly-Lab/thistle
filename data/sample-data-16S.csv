@@ -1,0 +1,80 @@
+﻿SampleID,Identifier,Location,City,State,Disease,Name,Crop,Year,Project,Longitude,Latitude,Technology
+CS04,,SA,Stanford,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS09,,ME,Conrad,MT,Healthy,Memke,,2022,CREEP_STOP,,,NovoSeq
+CS11,,SA,Stanford,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS15,,"Armenia, ND",Armenia,ND,Healthy,,Buckwheat,2022,CREEP_STOP,,,NovoSeq
+CS17,,"Moccasin, MT",Moccasin,MT,Healthy,,Spring wheat,2022,CREEP_STOP,,,NovoSeq
+CS19,,"Pullman, WA",Pullman,WA,Healthy,,Pasture,2022,CREEP_STOP,,,NovoSeq
+CS22,,ME,Conrad,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS24,,"Armenia, ND",Armenia,ND,Healthy,,Teff,2022,CREEP_STOP,,,NovoSeq
+CS27,,"Moccasin, MT",Moccasin,MT,Healthy,,Spring wheat,2022,CREEP_STOP,,,NovoSeq
+CS29,,SA,Stanford,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS31,,ME,Conrad,MT,Healthy,Memke,,2022,CREEP_STOP,,,NovoSeq
+CS32,,"Armenia, ND",Armenia,ND,Healthy,,Spring wheat,2022,CREEP_STOP,,,NovoSeq
+CS35,,SA,Stanford,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS39,,ME,Conrad,MT,Healthy,Memke,,2022,CREEP_STOP,,,NovoSeq
+CS41,,"Pullman, WA",Pullman,WA,Healthy,,Vegetable,2022,CREEP_STOP,,,NovoSeq
+CS43,,ME,Conrad,MT,Healthy,Memke,,2022,CREEP_STOP,,,NovoSeq
+CS46,,SA,Stanford,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS49,,"Armenia, ND",Armenia,ND,Healthy,,Buckwheat,2022,CREEP_STOP,,,NovoSeq
+CS51,,ME,Conrad,MT,Healthy,Memke,,2022,CREEP_STOP,,,NovoSeq
+CS52,,SA,Stanford,MT,Healthy,,,2022,CREEP_STOP,,,NovoSeq
+CS55,,SA,Stanford,MT,Healthy,,Border,2022,CREEP_STOP,,,NovoSeq
+CS70,,ME,Conrad,MT,Healthy,Memke,,2022,CREEP_STOP,,,NovoSeq
+TR2,D-E,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR3,D-1,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR4,D-2,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR5,D-3,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR6,D-4,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR7,D-5,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR8,D-6,"Big Timber, MT",Big Timber,MT,Diseased,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR9,H-1,"Big Timber, MT",Big Timber,MT,Healthy,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR10,H-2,"Big Timber, MT",Big Timber,MT,Healthy,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR11,H-3,"Big Timber, MT",Big Timber,MT,Healthy,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR12,H-4,"Big Timber, MT",Big Timber,MT,Healthy,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR13,H-5,"Big Timber, MT",Big Timber,MT,Healthy,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR14,H-6,"Big Timber, MT",Big Timber,MT,Healthy,Big Timber,Forage,2023,Dyer,,,NovoSeq
+TR15,ED-1,"Ekalaka, MT",Ekalaka,MT,Diseased,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR16,ED-2,"Ekalaka, MT",Ekalaka,MT,Diseased,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR17,ED-3,"Ekalaka, MT",Ekalaka,MT,Diseased,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR18,ED-4,"Ekalaka, MT",Ekalaka,MT,Diseased,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR19,E-1,"Ekalaka, MT",Ekalaka,MT,Healthy,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR20,EH-2,"Ekalaka, MT",Ekalaka,MT,Healthy,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR21,E-3,"Ekalaka, MT",Ekalaka,MT,Healthy,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR22,E-4,"Ekalaka, MT",Ekalaka,MT,Healthy,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR23,E-6,"Ekalaka, MT",Ekalaka,MT,Healthy,Ekalaka,Forage,2023,Dyer,,,NovoSeq
+TR24,L-H3,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR25,L-D2,"Ledger, MT",Ledger,MT,Diseased,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR26,L-H6,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR27,L-D1,"Ledger, MT",Ledger,MT,Diseased,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR28,46D,"Ledger, MT",Ledger,MT,Diseased,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR29,L-H5,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR30,L-H1,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR31,50H,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR39,L-H4,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR41,L-H2,"Ledger, MT",Ledger,MT,Healthy,Ledger,Lentil,2023,Dyer,,,NovoSeq
+TR33,27D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62412,47.64957,NovoSeq
+TR35,4D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62424,47.65116,NovoSeq
+TR36,49D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62200,47.64803,NovoSeq
+TR37,35D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62451,47.64836,NovoSeq
+TR38,29D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62431,47.64905,NovoSeq
+TR40,14H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62533,47.64981,NovoSeq
+TR42,11D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62551,47.65163,NovoSeq
+TR43,9H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62523,47.65103,NovoSeq
+TR44,4H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62424,47.65116,NovoSeq
+TR45,3H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62420,47.65125,NovoSeq
+TR46,27H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62412,47.64957,NovoSeq
+TR47,9D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62523,47.65103,NovoSeq
+TR48,16D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62525,47.64991,NovoSeq
+TR49,11H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62551,47.65163,NovoSeq
+TR50,14D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62533,47.64981,NovoSeq
+TR51,24H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62460,47.64999,NovoSeq
+TR52,1H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62299,47.65152,NovoSeq
+TR53,29H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62431,47.64905,NovoSeq
+TR54,16H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62525,47.64991,NovoSeq
+TR55,49H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62200,47.64803,NovoSeq
+TR56,3D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62420,47.65125,NovoSeq
+TR57,57D,"Highwood, MT",Highwood,MT,Diseased,Norgaard,Grass Hay,2023,Dyer,-110.62269,47.64983,NovoSeq
+TR58,46H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62370,47.6485,NovoSeq
+TR60,35H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62451,47.64836,NovoSeq
+TR61,51H,"Highwood, MT",Highwood,MT,Healthy,Norgaard,Grass Hay,2023,Dyer,-110.62189,47.64904,NovoSeq
